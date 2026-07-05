@@ -69,9 +69,6 @@ This project is an interactive Swiggy Sales Analysis Dashboard developed using P
 - Swiggy_Data.xlsx - 0629e63ac4c89eabf025b6e36b3b15162345ae7f
 - Screenshot 2026-05-02 135449.png
 
-## Swiggy Analysis Dashboard
-<img width="647" height="461" alt="Screenshot 2026-05-02 135449" src="https://github.com/user-attachments/assets/7eadb6e4-5615-4df4-a52e-575cac80c649" />
-
 ## Dashboard Preview
 
 <img width="647" height="461" alt="Screenshot 2026-05-02 135449" src="https://github.com/user-attachments/assets/cd7da021-8b68-49b4-897e-85ec7cf5222b" />

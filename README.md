@@ -5,7 +5,7 @@ This project is an interactive Swiggy Sales Analysis Dashboard developed using P
 
 ---
 
-## Objectives
+## Objectives.
 - Analyze overall sales performance.
 - Track monthly, weekly, and daily sales trends.
 - Identify top-performing states.

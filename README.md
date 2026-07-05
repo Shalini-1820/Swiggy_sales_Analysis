@@ -71,4 +71,4 @@ This project is an interactive Swiggy Sales Analysis Dashboard developed using P
 
 ## Dashboard Preview
 
-<img width="647" height="461" alt="Screenshot 2026-05-02 135449" src="https://github.com/user-attachments/assets/cd7da021-8b68-49b4-897e-85ec7cf5222b" />
+<img width="647" height="461" alt="Screenshot 2026-05-02 135449" src="https://github.com/user-attachments/assets/d7222278-c29f-438e-b140-02d7c75fc731" />
